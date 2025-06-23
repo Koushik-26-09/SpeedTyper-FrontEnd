@@ -37,7 +37,8 @@ A responsive web-based typing speed challenge built using HTML, CSS, and JavaScr
 ![image](https://github.com/user-attachments/assets/be82923d-4b7c-488e-80a5-a42f31228d24)
 
 ---
-
+##  Demo Video
+![video](video.mp4)
 ## 📦 Technologies Used
 
 - HTML5  
