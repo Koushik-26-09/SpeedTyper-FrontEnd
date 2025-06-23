@@ -32,7 +32,9 @@ A responsive web-based typing speed challenge built using HTML, CSS, and JavaScr
 
 ## 📸 Demo Screenshot
 
-![Speed Typer Demo](screenshot.png) <!-- (You can replace this with your own screenshot image link) -->
+![image](https://github.com/user-attachments/assets/d8218efe-1c17-4f8c-8e8a-50fe69e262b7)
+![image](https://github.com/user-attachments/assets/3f1c7c79-a22c-4b9a-806d-a90b0de12f3a)
+![image](https://github.com/user-attachments/assets/be82923d-4b7c-488e-80a5-a42f31228d24)
 
 ---
 
@@ -65,10 +67,6 @@ A responsive web-based typing speed challenge built using HTML, CSS, and JavaScr
 ├── style.css
 ├── script.js
 └── README.md
-## Screenshot
-![image](https://github.com/user-attachments/assets/d8218efe-1c17-4f8c-8e8a-50fe69e262b7)
-![image](https://github.com/user-attachments/assets/3f1c7c79-a22c-4b9a-806d-a90b0de12f3a)
-![image](https://github.com/user-attachments/assets/be82923d-4b7c-488e-80a5-a42f31228d24)
 
 ---
 ## ✨ Author
